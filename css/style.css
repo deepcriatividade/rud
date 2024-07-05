@@ -166,7 +166,7 @@ h5 {
 
 .box-header {
     height: 80px;
-    background: transparent;
+    background: #000;
     box-shadow: none;
 }
 
